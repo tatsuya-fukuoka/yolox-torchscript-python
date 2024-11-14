@@ -13,3 +13,8 @@ python tools/export_torchscript.py --output-name yolox-tiny.torchscript.pt -n yo
 ```
 python yolox_torchscript.py
 ```
+
+## サンプル画像
+
+サンプル画像は下記の映像から切り出して使用させていただきました。
+https://www2.nhk.or.jp/archives/movies/?id=D0002011239_00000
